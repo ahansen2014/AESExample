@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## AES encryption implemented in Python
+
+This project is designed to be a way computer science students can explore and understand the AES encryption algorithm.
 
 You can use the [editor on GitHub](https://github.com/ahansen2014/AESExample/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
